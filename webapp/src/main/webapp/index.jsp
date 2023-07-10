@@ -34,5 +34,5 @@
    <h1> Thankyou, Happy Learning </h1>
    <h1> Thanks , Human resource </h1>
    <h1> Devops Training </h1>
-   <h1> End of the Testing </h1> 
+   <h1> End of Testing </h1> 
 </form>
