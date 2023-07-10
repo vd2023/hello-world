@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h1> Thanks , Human resource </h1>
-
+   <h1> Devops Training </h1>
   
 </form>
